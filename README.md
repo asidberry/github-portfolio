@@ -23,3 +23,8 @@ Markdown
 GitHub
 
 Bash
+
+
+- Documentation: Writing ReadMe files, creating branches, and screenshots
+
+- Highlight Reel: Pinned repositories and creating Readme files to break down the work and progress
