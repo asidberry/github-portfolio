@@ -16,7 +16,6 @@ Security Tooling
 Languages & Framework
 
 -Markdown
-
 -GitHub
 -
 Bash
