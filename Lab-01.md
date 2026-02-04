@@ -1,6 +1,6 @@
 # Lab 01: Infrastructure Audit
 **Name:** Arielle Sidberry
-**Date:** January 29, 2026
+**Date:** January 29th, 2026
 **Status:** Completed
 
 ## 🎯 Objective
@@ -12,5 +12,8 @@ To document the 2021 Facebook outage and practice using GitHub for enterprise do
 3.  **The Impact:** DNS resolvers could not find Facebook's servers.
 
 ## 📸 Proof of Work
-*(We will add a screenshot here in the next step)*
+md.
+<img width="1022" height="206" alt="image" src="https://github.com/user-attachments/assets/0a6f0b4d-13cb-4ab5-bbd0-80f7c322217e" /> 
+
+
 
