@@ -10,11 +10,11 @@ My mission is to develop secure, reliable, and efficient IT soultions that will 
 
 Operating Systems
 
--Windows 11
+Windows 11
 
 Security Tooling
 
--Cisco
+Cisco
 
 Languages & Framework
 
@@ -25,6 +25,16 @@ GitHub
 Bash
 
 
-- Documentation: Writing ReadMe files, creating branches, and screenshots
+- Documentation
 
-- Highlight Reel: Pinned repositories and creating Readme files to break down the work and progress
+Writing ReadMe files, 
+
+Creating branches
+
+Screenshots
+
+- Highlight Reel
+
+   Pinned repositories
+
+  Creating Readme files to break down the work and progress
