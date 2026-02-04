@@ -6,7 +6,7 @@ I am a graduate student studying Enterprise Infrastructure and Networks.
 
 My mission is to develop secure, reliable, and efficient IT soultions that will support major healthcare systems. 
 
--Toolkit
+- Toolkit
 
 Operating Systems
 
