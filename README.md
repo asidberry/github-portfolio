@@ -38,3 +38,7 @@ Screenshots
    Pinned repositories
 
   Creating Readme files to break down the work and progress
+
+  -Collaborators
+
+  https://github.com/PaulineKabe, https://github.com/mocaorsa, https://github.com/N-alaiban, https://github.com/z-alshehri, https://github.com/ClaireKamobaya
