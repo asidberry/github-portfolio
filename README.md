@@ -1,10 +1,13 @@
 - Overview
--I am a graduate student studying Enterprise Infrastructure and Networks.
 
-🔹 Mission Statement
--My mission is to develop secure, reliable, and efficient IT soultions that will support major healthcare systems. 
+I am a graduate student studying Enterprise Infrastructure and Networks.
 
-🔹 Toolkit
+-Mission Statement
+
+My mission is to develop secure, reliable, and efficient IT soultions that will support major healthcare systems. 
+
+-Toolkit
+
 Operating Systems
 
 -Windows 11
