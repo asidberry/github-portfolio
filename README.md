@@ -6,13 +6,17 @@
 
 🔹 Toolkit
 Operating Systems
+
 -Windows 11
 
 Security Tooling
+
 -Cisco
 
 Languages & Framework
 
 -Markdown
+
 -GitHub
--Bash
+-
+Bash
