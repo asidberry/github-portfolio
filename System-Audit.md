@@ -10,7 +10,7 @@ Section 4: Git Submission
 
 
 
-# Lab 02: System Audit 
+# Lab 02: Initial System Audit 
  
 **Student Name:** [Arielle Sidberry]   
 **Date:** [2/3/2026] 
